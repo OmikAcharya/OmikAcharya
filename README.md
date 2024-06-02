@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=omikacharya&theme=github_dark)
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=omikacharya&theme=github_dark) ![Leetcode Stats](https://leetcard.jacoblin.cool/OmikAcharya)
 
