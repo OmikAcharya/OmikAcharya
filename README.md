@@ -13,8 +13,8 @@ I'm a passionate coder with a keen interest in competitive programming and softw
 ## 🏆Competitive Programming!
 
 <p align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=OmikAcharya&theme=github_dark" alt="Codeforces Stats" style="height: 300px;" />
-  <img src="https://leetcard.jacoblin.cool/OmikAcharya?theme=dark&font=Ubuntu&ext=heatmap" alt="LeetCode Stats" style="height: 300px;" />
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=OmikAcharya&theme=github_dark" alt="Codeforces Stats" style="height: 250px;" />
+  <img src="https://leetcard.jacoblin.cool/OmikAcharya?theme=dark&font=Ubuntu&ext=heatmap" alt="LeetCode Stats" style="height: 250px;" />
 </p>
 
 ## 📫 Get in Touch
