@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## 🏆Competetive Programming!
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=omikacharya&theme=github_dark) ![Leetcode Stats](https://leetcard.jacoblin.cool/OmikAcharya)
+
 
 <span>
 <a href="https://codeforces.com/profile/omikacharya">
