@@ -17,5 +17,6 @@ Here are some ideas to get you started:
 
 ## 🏆Competitive Programming!
 
-
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=OmikAcharya&theme=github_dark)
+![LeetCode Stats](https://leetcard.jacoblin.cool/OmikAcharya?theme=nord&font=Ubuntu&ext=heatmap)
 
