@@ -1,5 +1,26 @@
-## Hi there 👋
+## Hello, I'm Omik! 👋
+I'm a passionate coder with a keen interest in competitive programming and software development
 
+## 👨‍💻 About Me
+
+- **Competitive Programming**: Actively participating in competitive programming on platforms like Codeforces and CodeChef. My CodeChef username is [Omik](https://www.codechef.com/users/omik).
+- **Development**: Eager to dive deeper into the world of software development and build impactful projects.
+
+## 🚀 Skills
+
+- **Languages**: Python, C++, Java, C
+
+## 🏆Competitive Programming!
+
+<p align="center">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=OmikAcharya&theme=github_dark" alt="Codeforces Stats" style="height: 300px;" />
+  <img src="https://leetcard.jacoblin.cool/OmikAcharya?theme=dark&font=Ubuntu&ext=heatmap" alt="LeetCode Stats" style="height: 300px;" />
+</p>
+
+## 📫 Get in Touch
+
+- **LinkedIn**: [Omik Acharya](https://www.linkedin.com/in/omik-acharya-76a5802b5/)
+- **Email**: [omikacharya@gmail.com](mailto:omikacharya@gmail.com)
 <!--
 **OmikAcharya/OmikAcharya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,12 +36,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🏆Competitive Programming!
 
-<p align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=OmikAcharya&theme=github_dark" alt="Codeforces Stats" style="height: 200px;" />
-  <img src="https://leetcard.jacoblin.cool/OmikAcharya?theme=dark&font=Ubuntu&ext=heatmap" alt="LeetCode Stats" style="height: 200px;" />
-</p>
 
 
 
