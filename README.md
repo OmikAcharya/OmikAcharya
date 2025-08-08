@@ -1,15 +1,6 @@
 ## Hello, I'm Omik! 👋
 I'm a passionate coder with a keen interest in competitive programming and software development
 
-## 👨‍💻 About Me
-
-- **Competitive Programming**: Actively participating in competitive programming on platforms like Codeforces and CodeChef. My CodeChef username is [Omik](https://www.codechef.com/users/omik).
-- **Development**: Eager to dive deeper into the world of software development and build impactful projects.
-
-## 🚀 Skills
-
-- **Languages**: Python, C++, Java, C
-
 ## 🏆Competitive Programming!
 
 <p align="center">
